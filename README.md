@@ -11,5 +11,7 @@ This project demonstrates how mathematical reasoning and basic programming can b
 #  How Can Users Get Started?
 Open the project notebook using the Google Colab link below;  Read the problem statement and equations;  Run the code cells in order; 4. Review the calculated results.
 Google Colab Notebook:[Open My python code in Google Colab](https://colab.research.google.com/drive/1Dh5fr5M1e_-nfAmlxMa5WvAQy-13Y8ff?usp=sharing)
-
-
+# 7. Assumptions, Limitations, and Future Improvements
+Assumptions:The object moves with constant acceleration;The given conditions are accurate;The motion follows standard kinematic equations.
+Limitations:The project focuses on one kinematics problem;The calculations depend on the given conditions and the assumptions of the model.
+Future Improvements:- Add visualizations of displacement, velocity, and acceleration; Allow users to solve similar problems using different input values;- Extend the program to other physics problems.
